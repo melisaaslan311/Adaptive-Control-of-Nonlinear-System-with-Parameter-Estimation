@@ -1,4 +1,4 @@
-# 🎛️ MRAC — Model Reference Adaptive Control
+# Adaptive-Control-of-Nonlinear-System-with-Parameter-Estimation
 
 ---
 
