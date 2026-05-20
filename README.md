@@ -5,7 +5,7 @@ Readme · MD
  
 ## 📌 Overview
  
-This repository implements a **Adaptive-Control-of-Nonlinear-System-with-Parameter-Estimation)** system in MATLAB/Simulink. The plant is a first-order nonlinear system with unknown parameters, and the controller adapts online to drive the tracking error to zero.
+This repository implements a **Adaptive-Control-of-Nonlinear-System-with-Parameter-Estimation** system in MATLAB/Simulink. The plant is a first-order nonlinear system with unknown parameters, and the controller adapts online to drive the tracking error to zero.
  
 The system tracks a sinusoidal reference trajectory using a Lyapunov-based parameter update law.
  
